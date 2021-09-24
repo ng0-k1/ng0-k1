@@ -11,7 +11,7 @@ Deep Learning </h4>
   <img align="right" alt="GIF" src="https://miro.medium.com/max/700/1*a-HMfeg5w-W02Nrw21iPtg.gif" width="420
   " height="250" />
 
-**Talking about Personal Stuffs:**
+**Intereses y Habilidades:**
 
 - 📊 Machine Learning
 - 💻 Deep Learning
