@@ -21,6 +21,7 @@ Deep Learning </h4>
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/oscar-david-perilla-a60079185/)
 [<img src="https://img.shields.io/badge/Kaggle-blue?logo=kaggle&logoColor=white&style=for-the-badge&logoHeight=100" />](https://www.kaggle.com/oscardavidperilla)
 
-<img src = "https://github-readme-stats.vercel.app/api?username=ng0-k1&show_icons=true&theme=algolia" alt="readme stats">
+
+<img src = "https://github-readme-stats.vercel.app/api?username=ng0-k1&show_icons=true&theme=radical" alt="readme stats">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ng0-k1&theme=merko)](https://github.com/ng0-k1?tab=repositories)
